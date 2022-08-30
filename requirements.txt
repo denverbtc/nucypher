@@ -21,7 +21,7 @@ cryptography==2.7
 cytoolz==0.10.0 ; implementation_name == 'cpython'
 dateparser==0.7.2
 eth-abi==2.0.0
-eth-account==0.4.0
+eth-account==0.5.9
 eth-bloom==1.0.3
 eth-hash[pycryptodome]==0.2.0
 eth-keyfile==0.5.1
