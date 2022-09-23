@@ -54,7 +54,7 @@ netaddr==0.7.19
 parsimonious==0.8.1
 pathtools==0.1.2
 pendulum==2.0.5
-protobuf==3.10.0rc1
+protobuf==3.18.3
 py-ecc==1.7.1
 py-evm==0.3.0a1
 py-geth==2.1.0
