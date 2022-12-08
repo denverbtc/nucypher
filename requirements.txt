@@ -9,7 +9,7 @@ automat==0.7.0
 base58==1.0.3
 bytestring-splitter==1.0.0a4
 cached-property==1.5.1
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 click==7.0
